@@ -1,0 +1,390 @@
+# Copyright (C) 2026 Demfilz
+# This file is distributed under the GPLv2 or later.
+msgid ""
+msgstr ""
+"Project-Id-Version: Demfilz Studio Core 1.0.0\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/plugin/demfilz-studio-core\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2026-08-05T14:26:30+00:00\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"X-Generator: WP-CLI 2.12.0\n"
+"X-Domain: demfilz-studio-core\n"
+
+#. Plugin Name of the plugin
+#: demfilz-studio-core.php
+msgid "Demfilz Studio Core"
+msgstr ""
+
+#. Plugin URI of the plugin
+#. Author URI of the plugin
+#: demfilz-studio-core.php
+msgid "https://demfilz.com/"
+msgstr ""
+
+#. Description of the plugin
+#: demfilz-studio-core.php
+msgid "Portfolio and Services post types, a spam-protected contact form with stored entries, and a CTA button shortcode. Companion plugin for the Demfilz Studio theme; works with any theme."
+msgstr ""
+
+#. Author of the plugin
+#: demfilz-studio-core.php
+msgid "Demfilz"
+msgstr ""
+
+#: includes/contact-form.php:33
+msgid "Thanks for reaching out. We have received your message and will reply shortly."
+msgstr ""
+
+#. translators: 1: site name, 2: sender name.
+#: includes/contact-form.php:186
+#, php-format
+msgid "[%1$s] New enquiry from %2$s"
+msgstr ""
+
+#: includes/contact-form.php:188
+msgid "New contact form enquiry"
+msgstr ""
+
+#: includes/contact-form.php:189
+msgid "Name:"
+msgstr ""
+
+#: includes/contact-form.php:190
+msgid "Email:"
+msgstr ""
+
+#: includes/contact-form.php:192
+msgid "Phone:"
+msgstr ""
+
+#: includes/contact-form.php:194
+msgid "Message:"
+msgstr ""
+
+#: includes/contact-form.php:195
+msgid "Sent from:"
+msgstr ""
+
+#: includes/contact-form.php:223
+msgid "You have sent a few messages in a short time. Please wait a little while and try again."
+msgstr ""
+
+#: includes/contact-form.php:224
+msgid "Please complete all required fields with valid details and try again."
+msgstr ""
+
+#: includes/contact-form.php:225
+msgid "Something went wrong sending your message. Please refresh the page and try again."
+msgstr ""
+
+#: includes/contact-form.php:251
+msgid "Leave this field empty"
+msgstr ""
+
+#: includes/contact-form.php:257
+msgid "Name"
+msgstr ""
+
+#: includes/contact-form.php:261
+#: includes/meta-boxes.php:188
+#: includes/post-types.php:130
+msgid "Email"
+msgstr ""
+
+#: includes/contact-form.php:267
+msgid "Phone (optional)"
+msgstr ""
+
+#: includes/contact-form.php:272
+#: includes/meta-boxes.php:203
+msgid "Message"
+msgstr ""
+
+#: includes/contact-form.php:278
+msgid "Send Message"
+msgstr ""
+
+#: includes/meta-boxes.php:22
+msgid "Briefcase"
+msgstr ""
+
+#: includes/meta-boxes.php:23
+msgid "Palette"
+msgstr ""
+
+#: includes/meta-boxes.php:24
+msgid "Pen"
+msgstr ""
+
+#: includes/meta-boxes.php:25
+msgid "Code"
+msgstr ""
+
+#: includes/meta-boxes.php:26
+msgid "Smartphone"
+msgstr ""
+
+#: includes/meta-boxes.php:27
+msgid "Globe"
+msgstr ""
+
+#: includes/meta-boxes.php:28
+msgid "Chart"
+msgstr ""
+
+#: includes/meta-boxes.php:29
+msgid "Megaphone"
+msgstr ""
+
+#: includes/meta-boxes.php:30
+msgid "Search"
+msgstr ""
+
+#: includes/meta-boxes.php:31
+msgid "Camera"
+msgstr ""
+
+#: includes/meta-boxes.php:32
+msgid "Video"
+msgstr ""
+
+#: includes/meta-boxes.php:33
+msgid "Rocket"
+msgstr ""
+
+#: includes/meta-boxes.php:34
+msgid "Shield"
+msgstr ""
+
+#: includes/meta-boxes.php:35
+msgid "Gear"
+msgstr ""
+
+#: includes/meta-boxes.php:36
+msgid "Layers"
+msgstr ""
+
+#: includes/meta-boxes.php:37
+msgid "Lightbulb"
+msgstr ""
+
+#: includes/meta-boxes.php:38
+msgid "Chat"
+msgstr ""
+
+#: includes/meta-boxes.php:39
+msgid "Team"
+msgstr ""
+
+#: includes/meta-boxes.php:40
+msgid "Wrench"
+msgstr ""
+
+#: includes/meta-boxes.php:41
+msgid "Target"
+msgstr ""
+
+#: includes/meta-boxes.php:51
+msgid "Project Details"
+msgstr ""
+
+#: includes/meta-boxes.php:52
+msgid "Service Icon"
+msgstr ""
+
+#: includes/meta-boxes.php:53
+msgid "Submission"
+msgstr ""
+
+#: includes/meta-boxes.php:70
+msgid "Client"
+msgstr ""
+
+#: includes/meta-boxes.php:74
+msgid "Year"
+msgstr ""
+
+#: includes/meta-boxes.php:78
+msgid "Project URL"
+msgstr ""
+
+#: includes/meta-boxes.php:126
+msgid "Icon shown on the service card"
+msgstr ""
+
+#: includes/meta-boxes.php:129
+msgid "Automatic"
+msgstr ""
+
+#: includes/meta-boxes.php:134
+msgid "Automatic cycles through a tasteful set based on the service order."
+msgstr ""
+
+#: includes/meta-boxes.php:189
+#: includes/post-types.php:131
+msgid "Phone"
+msgstr ""
+
+#: includes/meta-boxes.php:190
+msgid "IP address"
+msgstr ""
+
+#: includes/meta-boxes.php:191
+msgid "Browser"
+msgstr ""
+
+#: includes/post-types.php:24
+msgid "Portfolio"
+msgstr ""
+
+#: includes/post-types.php:25
+msgid "Project"
+msgstr ""
+
+#: includes/post-types.php:26
+msgid "Add Project"
+msgstr ""
+
+#: includes/post-types.php:27
+msgid "Add New Project"
+msgstr ""
+
+#: includes/post-types.php:28
+msgid "Edit Project"
+msgstr ""
+
+#: includes/post-types.php:29
+msgid "New Project"
+msgstr ""
+
+#: includes/post-types.php:30
+msgid "View Project"
+msgstr ""
+
+#: includes/post-types.php:31
+msgid "Search Projects"
+msgstr ""
+
+#: includes/post-types.php:32
+msgid "No projects found."
+msgstr ""
+
+#: includes/post-types.php:33
+msgid "No projects found in Trash."
+msgstr ""
+
+#: includes/post-types.php:34
+msgid "All Projects"
+msgstr ""
+
+#: includes/post-types.php:51
+msgid "Project Categories"
+msgstr ""
+
+#: includes/post-types.php:52
+msgid "Project Category"
+msgstr ""
+
+#: includes/post-types.php:53
+msgid "Search Categories"
+msgstr ""
+
+#: includes/post-types.php:54
+msgid "All Categories"
+msgstr ""
+
+#: includes/post-types.php:55
+msgid "Edit Category"
+msgstr ""
+
+#: includes/post-types.php:56
+msgid "Update Category"
+msgstr ""
+
+#: includes/post-types.php:57
+msgid "Add New Category"
+msgstr ""
+
+#: includes/post-types.php:58
+msgid "New Category Name"
+msgstr ""
+
+#: includes/post-types.php:72
+msgid "Services"
+msgstr ""
+
+#: includes/post-types.php:73
+msgid "Service"
+msgstr ""
+
+#: includes/post-types.php:74
+msgid "Add Service"
+msgstr ""
+
+#: includes/post-types.php:75
+msgid "Add New Service"
+msgstr ""
+
+#: includes/post-types.php:76
+msgid "Edit Service"
+msgstr ""
+
+#: includes/post-types.php:77
+msgid "New Service"
+msgstr ""
+
+#: includes/post-types.php:78
+msgid "View Service"
+msgstr ""
+
+#: includes/post-types.php:79
+msgid "Search Services"
+msgstr ""
+
+#: includes/post-types.php:80
+msgid "No services found."
+msgstr ""
+
+#: includes/post-types.php:81
+msgid "No services found in Trash."
+msgstr ""
+
+#: includes/post-types.php:82
+msgid "All Services"
+msgstr ""
+
+#: includes/post-types.php:98
+msgid "Form Entries"
+msgstr ""
+
+#: includes/post-types.php:99
+msgid "Form Entry"
+msgstr ""
+
+#: includes/post-types.php:100
+msgid "View Entry"
+msgstr ""
+
+#: includes/post-types.php:101
+msgid "Search Entries"
+msgstr ""
+
+#: includes/post-types.php:102
+msgid "No entries yet. Contact form submissions are stored here."
+msgstr ""
+
+#: includes/post-types.php:125
+msgid "Date"
+msgstr ""
+
+#: includes/post-types.php:129
+msgid "From"
+msgstr ""
+
+#: includes/shortcodes.php:24
+msgid "Learn More"
+msgstr ""
